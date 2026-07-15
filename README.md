@@ -1,16 +1,117 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gabrielDevcodess/gabrielDevcodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Gabriel Rocha
 
-Here are some ideas to get you started:
+### Software Engineer • Mobile Developer • Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=3BA9FF&center=true&vCenter=true&width=650&lines=React+Native+Developer;Java+Developer;TypeScript+Developer;Building+Finzy+🚀" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=gabrielDevcodess&style=for-the-badge&color=3BA9FF)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+💙 Desenvolvedor de Software apaixonado por criar aplicações modernas, intuitivas e escaláveis.
+
+📱 Atualmente desenvolvendo o **Finzy**, um aplicativo completo de gestão financeira utilizando **React Native**, **TypeScript** e **Firebase**.
+
+🚀 Buscando oportunidades como **Software Engineer**, **Mobile Developer** ou **Backend Developer**.
+
+---
+
+## 🎯 Atualmente
+
+- 🚀 Evoluindo o **Finzy**
+- 📚 Estudando Arquitetura de Software
+- ☁️ Aprendendo mais sobre Firebase e Backend
+- 💼 Em busca de novas oportunidades
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,reactivex,ts,js,java,spring,nodejs,firebase,mongodb,mysql,postgres,git,github,vscode,figma,html,css" />
+
+</div>
+
+---
+
+## 🚀 Projeto em Destaque
+
+# 💸 Finzy
+
+Aplicativo de gestão financeira desenvolvido com foco em experiência do usuário, arquitetura escalável e desempenho.
+
+### Principais funcionalidades
+
+- 📊 Dashboard Financeiro
+- 💳 Gestão de Cartões
+- 💰 Receitas e Despesas
+- 🎯 Metas Financeiras
+- 🤖 IA para Insights Financeiros
+- 🔐 Firebase Authentication
+- 🌙 Dark Mode
+
+---
+
+## 📌 Projetos
+
+- 💸 **Finzy** — Aplicativo de Gestão Financeira
+- 📄 **CVFlow** — Currículos otimizados para ATS
+- 🌐 **Portfólio** *(Em desenvolvimento)*
+- ⚡ **Tech Wave** — Website institucional
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielDevcodess&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielDevcodess&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=gabrielDevcodess&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielDevcodess&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+📧 **rochabatistagabriel@gmail.com**
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/perfilgabrielrocha/
+
+🌐 **Portfólio:**  
+Em desenvolvimento 🚧
+
+---
+
+<div align="center">
+
+### 🚀 Transformando ideias em produtos digitais.
+
+Obrigado pela visita! ⭐
+
+</div>
