@@ -84,17 +84,7 @@ Aplicativo de gestão financeira desenvolvido com foco em experiência do usuár
 
 </div>
 
----
 
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielDevcodess&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 ## 📫 Contato
 
