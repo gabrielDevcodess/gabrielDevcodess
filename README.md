@@ -70,22 +70,6 @@ Aplicativo de gestão financeira desenvolvido com foco em experiência do usuár
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielDevcodess&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielDevcodess&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=gabrielDevcodess&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-
 ## 📫 Contato
 
 📧 **rochabatistagabriel@gmail.com**
