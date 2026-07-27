@@ -4,8 +4,6 @@
 
 ### Software Engineer • Mobile Developer • Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=3BA9FF&center=true&vCenter=true&width=650&lines=React+Native+Developer;Java+Developer;TypeScript+Developer;Building+Finzy+🚀" />
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=gabrielDevcodess&style=for-the-badge&color=3BA9FF)
