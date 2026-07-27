@@ -4,12 +4,6 @@
 
 ### Software Engineer • Mobile Developer • Backend Developer
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=gabrielDevcodess&style=for-the-badge&color=3BA9FF)
-
-</div>
-
 ---
 
 ## 👨‍💻 Sobre mim
